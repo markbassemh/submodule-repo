@@ -1,3 +1,3 @@
 # submodule-repo
  submodule tutorial
-edited readme 1.1
+edited readme 1.2
